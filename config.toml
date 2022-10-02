@@ -1,0 +1,14 @@
+[train]
+batch = 128 #6142
+lr = 0.001
+max_epoch = 50
+
+[test]
+batch = 512#1024
+
+[protocol]
+r1 = 3.7
+TR = 0.0062
+# flip angle
+alpha = 10
+deltt = 4.5
