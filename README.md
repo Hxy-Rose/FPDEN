@@ -1,5 +1,6 @@
 # flow-DCEMRI
-This is the code for paper "Pharmacokinetic Parameters’ Distribution Estimation with Normalizing Flow in Dynamic Contrast-Enhanced Magnetic Resonance Imaging"
+This is the code for paper "Normalizing Flow-based Distribution Estimation of Pharmacokinetic Parameters in Dynamic Contrast-Enhanced Magnetic Resonance Imaging"
+https://ieeexplore.ieee.org/abstract/document/10258309
 ## 1. config
 edit config.toml
 ## 2. train
